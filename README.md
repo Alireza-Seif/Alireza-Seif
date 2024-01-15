@@ -1,4 +1,4 @@
-<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+There+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Alireza+Seif+;A+front-end+developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Nice+to+meet+you+%E2%9C%A8" alt="Typing SVG" /></a></center>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+There+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Alireza+Seif+;A+front-end+developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Nice+to+meet+you+%E2%9C%A8)](https://git.io/typing-svg)
 
 <h3 align="center">I am an undergraduate student. I do mobile programming using Flutter</h3>
 
