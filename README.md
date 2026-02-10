@@ -6,9 +6,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alireza_.seif)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/@alirezaariye)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alireza-seif)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alireza_.seif) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/@alirezaariye) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alireza-seif)
 
 
 # 💻 Tech Stack:
@@ -35,13 +33,15 @@
 <!-- ### 🔝 Top Contributed Repo
  ![](https://github-contributor-stats.vercel.app/api?username=Alireza-Seif&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 -->
+<div align="center">
+ 
+ ![snake gif](https://github.com/Alireza-Seif/Alireza-Seif/blob/output/github-snake-dark.svg)
+</div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Alireza-Seif&icon=8&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Snak Game -->
-<div align="center">
- 
- ![snake gif](https://github.com/Alireza-Seif/Alireza-Seif/blob/output/github-snake-dark.svg)
-</div>
+
