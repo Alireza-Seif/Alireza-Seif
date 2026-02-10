@@ -22,20 +22,26 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alirezaseif20&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alirezaseif20&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Alireza-Seif&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Alireza-Seif&theme=tokyonight&hide_border=true)<br/>
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alirezaseif20&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Alireza-Seif&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- ### 🔝 Top Contributed Repo
- ![](https://github-contributor-stats.vercel.app/api?username=alirezaseif20&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+ ![](https://github-contributor-stats.vercel.app/api?username=Alireza-Seif&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 -->
 ---
-[![](https://visitcount.itsvg.in/api?id=alirezaseif20&icon=8&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Alireza-Seif&icon=8&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Snak Game -->
+<div align="center">
+ 
+ ![snake gif](https://github.com/Alireza-Seif/Alireza-Seif/blob/output/github-snake-dark.svg)
+</div>
